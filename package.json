@@ -1,0 +1,27 @@
+{
+  "name": "budget-traker",
+  "version": "1.0.0",
+  "description": "Budget tracker with offline capabilities and PWA mode",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "lite-server": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+  },
+  "author": "Edgardo Pina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+  },
+  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.5.15",
+    "morgan": "^1.9.1"
+  }
+}
