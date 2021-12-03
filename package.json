@@ -15,9 +15,9 @@
   "author": "Edgardo Pina",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/edgardopina/ch19-budget-tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/edgardopina/ch19-budget-tracker#readme",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
